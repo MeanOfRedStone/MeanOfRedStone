@@ -1,5 +1,5 @@
-### Hi there 👋
-#### Welcome to visit my GitHub
+<h2> Hi there 👋 Welcome to visit my GitHub</h2> 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeanOfRedStone&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeanOfRedStone&layout=compact&theme=onedark)
 <br/>
 <br/>
