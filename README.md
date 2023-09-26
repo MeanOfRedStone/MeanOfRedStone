@@ -98,7 +98,7 @@
   [Backend 저장소](https://github.com/MeanOfRedStone/story-backend)<br/>
   [FrontEnd 저장소](https://github.com/MeanOfRedStone/Music-Frontend)<br/>
   [AI 모델 API 저장소](https://github.com/MeanOfRedStone/modelTest)<br/>
-  [AI 모델 생성 저장소]()
+  [AI 모델 생성 저장소](https://github.com/MeanOfRedStone/AIForFinalProject)
   <br/>
   <br/>
   <br/>
