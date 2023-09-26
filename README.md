@@ -68,7 +68,7 @@
 
 **[저장소에서 자세히 살펴보기](https://github.com/MeanOfRedStone/portfolio)**
 <br/>
-**(참고 : [helpark 웹뷰 저장소](https://github.com/MeanOfRedStone/helparkWebview))**
+**(참고 : [Android Studio로 제작한 helpark 웹뷰 저장소](https://github.com/MeanOfRedStone/helparkWebview))**
 
 <br/>
   <br/>
