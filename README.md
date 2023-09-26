@@ -63,7 +63,8 @@
   - 도커
   
   (3) IDE
-  - IntelliJ <br>
+  - IntelliJ <br/>
+  - Android Studio <br/>
 
 **[저장소에서 자세히 살펴보기](https://github.com/MeanOfRedStone/portfolio)**
 <br/>
