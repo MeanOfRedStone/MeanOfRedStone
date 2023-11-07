@@ -52,7 +52,7 @@
 ### 1. 우아한테크코스 - 프리코스에 참여하며 진행한 과제를 저장한 저장소
 #### 1) 로또 미션
 
-**[저장소 링크](https://github.com/woowacourse-precourse/java-lotto-6)**
+**[저장소 링크](https://github.com/MeanOfRedStone/java-lotto-6)**
 
 * 진행 기간 : 2023.11.02 ~ (진행중)
 * 언어 : Java
